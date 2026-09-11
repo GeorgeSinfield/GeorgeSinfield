@@ -16,7 +16,7 @@ Next - TBD
 -----------------------------------------------------------------------------------------------------------------------------
 ### A Bit About me
 - I have 2 cats
-- I don’t really like fizzy drinks
+- I love spicy food
 - Into MMA - GSP is my favourite fighter
 - I like building full projects where I can use and learn many different skills and techniques
 
