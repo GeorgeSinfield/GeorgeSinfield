@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there 👋
+I'm George, a Computer Science student based in the UK.
 
-<!--
-**GeorgeSinfield/GeorgeSinfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on backend and frontend — mostly AI and fintech projects. My main tools are Python, React, and the Anthropic API.
 
-Here are some ideas to get you started:
+I also use Docker and Azure to deploy projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is where I document what I build and learn — everything here is made from scratch.
+
+---
+### 🚀 Current Project
+Just finished my Fintech Risk Intelligence Platform
+
+Next - TBD 
+
+-----------------------------------------------------------------------------------------------------------------------------
+### A Bit About me
+- I have 2 cats
+- I don’t really like fizzy drinks
+- Into MMA - GSP is my favourite fighter
+- I like building full projects where I can use and learn many different skills and techniques
+
+-----------------------------------------------------------------------------------------------------------------------------
+### How to contact me 
+- Email (in bio)
+- LinkedIn (in bio)
