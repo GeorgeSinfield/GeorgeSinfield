@@ -9,17 +9,17 @@ This is where I document what I build and learn — everything here is made from
 
 ---
 ### 🚀 Current Project
-Just finished my Fintech Risk Intelligence Platform
+✅Just finished my Fintech Risk Intelligence Platform
 
-Next - TBD 
+⏭️Next - TBD 
 
 -----------------------------------------------------------------------------------------------------------------------------
-### A Bit About me
+### 🙋A Bit About me
 - I have 2 cats
 - I love spicy food
 - Into MMA - GSP is my favourite fighter
 - I like building full projects where I can use and learn many different skills and techniques
 
 -----------------------------------------------------------------------------------------------------------------------------
-### How to contact me 
+### 📬How to contact me 
 - Email & LinkedIn (in bio)
