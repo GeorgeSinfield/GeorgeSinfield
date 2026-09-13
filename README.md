@@ -1,11 +1,11 @@
 ### Hi there 👋
 I'm George, a Computer Science student based in the UK.
 
-I work on backend and frontend — mostly AI and fintech projects. My main tools are Python, React, and the Anthropic API.
+I work on backend and frontend - mostly AI and fintech projects. My main tools are Python, React, and the Anthropic API.
 
 I also use Docker and Azure to deploy projects.
 
-This is where I document what I build and learn — everything here is made from scratch.
+This is where I document what I build and learn - everything here is made from scratch.
 
 ---
 ### 🚀 Current Project
